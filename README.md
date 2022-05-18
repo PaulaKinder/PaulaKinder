@@ -6,7 +6,7 @@
 
 **CONTACT ME**
 * Email: paula.kindeer@gmail.com
-* LinkedIn: https://www.linkedin.com/in/paula-eduarda-silva-138bb4220/
+* LinkedIn: www.linkedin.com/in/paula-eduarda-silva
 <!---
 PaulaKinder/PaulaKinder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
