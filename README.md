@@ -5,7 +5,7 @@
 - 📫 You can reach me at @paulakindeer
 
 **CONTACT ME**
-* Email: paula.kindeer@gmail.com
+* Email: paula.eduarda@unoesc.edu.br
 * LinkedIn: www.linkedin.com/in/paula-eduarda-silva
 <!---
 PaulaKinder/PaulaKinder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
